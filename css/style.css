@@ -1,0 +1,54 @@
+.row{
+ margin: 0;
+}
+.main{
+    background-image: url(../image/wepik-positive-quote-background-with-photo-20241128054719ErSa.png);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-quote{
+    background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.15 );
+backdrop-filter: blur( 6px );
+
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border-radius: 10px;
+    padding:30px 10px;
+    color: #282e44;
+    text-align: center;
+ 
+ 
+}
+.main-text{
+
+    text-align: center;
+  color: black;
+    font-weight:700;
+   
+}
+.quote span{
+    font-weight: 500;
+    display: block;
+    padding-bottom: 10px;
+
+}
+.data{
+    width: 70%;
+    margin:  0  auto;
+    text-align: center;
+}
+.quote{
+    text-align: center;
+    margin:  0  auto;
+}
+button{
+    background-color: #5372ef;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    color:white;
+
+}
